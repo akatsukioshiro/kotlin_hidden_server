@@ -14,6 +14,8 @@ Android Application, Kotlin Server using netty framework and ktor Framework, For
 * Disclaimer:
 1. This program is an amalgam of several tutorials and example scripts available online.
 2. This script can serve as a base for all those developers who have been searching for something similar.
+3. This code is for development purposes, it cannot be used as is, as it currently serves a simple JSON output at port 8124.
+4. To be tested over WIFI, either http://mobile_ip:8124 (from any device in same network) or http://localhost:8124 (from same mobile device)
 
 * Used concepts:
 1. kotlin threads and coroutines
